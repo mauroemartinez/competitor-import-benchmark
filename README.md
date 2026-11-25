@@ -77,7 +77,7 @@ With real import records, we implement this for your company: your imports again
 
 ## Stack
 
-Python, pandas and NumPy for the analysis, Plotly for the charts, Jinja2 for the report, Streamlit for the dashboard. Tests with `unittest`, run on every push by GitHub Actions.
+Python 3.12, pandas and NumPy for the analysis, Plotly for the charts, Jinja2 for the report, Streamlit for the dashboard. Tests with `unittest`, run on every push by GitHub Actions. The report is published on GitHub Pages from `docs/`.
 
 ## How to run
 

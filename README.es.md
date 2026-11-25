@@ -77,7 +77,7 @@ Con registros de importación reales, lo implementamos en tu empresa: tus import
 
 ## Herramientas
 
-Python, pandas y NumPy para el análisis, Plotly para los gráficos, Jinja2 para el informe, Streamlit para el tablero. Pruebas con `unittest`, que GitHub Actions corre en cada push.
+Python 3.12, pandas y NumPy para el análisis, Plotly para los gráficos, Jinja2 para el informe, Streamlit para el tablero. Pruebas con `unittest`, que GitHub Actions corre en cada push. El informe se publica en GitHub Pages desde `docs/`.
 
 ## Cómo correrlo
 
